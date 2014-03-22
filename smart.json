@@ -3,9 +3,7 @@
   "description": "A small JavaScript class to generate YouTube-like hashes from one or many numbers.",
   "homepage": "https://github.com/zaku-eu/meteor-hashids-server",
   "author": "Ivan Akimov (https://github.com/ivanakimov/hashids.js)",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "git": "https://github.com/zaku-eu/meteor-hashids-server.git",
-  "packages": {
-    "underscore": {}
-  }
+  "packages": {}
 }
