@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  where = where || ['client', 'server'];
+  where = where || ['server'];
 
   api.use('underscore', where);
 
